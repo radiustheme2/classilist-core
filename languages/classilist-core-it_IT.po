@@ -1,0 +1,870 @@
+# Italian (Italiano) translation for ClassiList Core
+# Domain: classilist-core
+# Generated for conversion to .po / .mo / .l10n.php
+
+msgid ""
+msgstr ""
+"Project-Id-Version: ClassiList Core\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-07-23 12:03+0000\n"
+"PO-Revision-Date: 2026-08-18 13:50+0000\n"
+"Last-Translator: Grok\n"
+"Language-Team: Italian\n"
+"Language: it_IT\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Grok\n"
+"X-Domain: classilist-core\n"
+
+#: elementor/pricing-table/class.php:204 elementor/pricing-table/class.php:457
+msgid " Background"
+msgstr " Sfondo"
+
+#: elementor/listing-category-box/class.php:22
+#: elementor/listing-store-grid/class.php:21
+#: elementor/listing-category-slider/class.php:22
+#: elementor/listing-slider/class.php:22 elementor/listing-grid/class.php:22
+msgid "1 Col"
+msgstr "1 colonna"
+
+#: elementor/listing-category-slider/class.php:174
+#: elementor/listing-slider/class.php:266
+msgid "1 Second"
+msgstr "1 secondo"
+
+#: elementor/listing-category-box/class.php:23
+#: elementor/listing-store-grid/class.php:22
+#: elementor/listing-category-slider/class.php:23
+#: elementor/listing-slider/class.php:23 elementor/listing-grid/class.php:23
+msgid "2 Col"
+msgstr "2 colonne"
+
+#: elementor/listing-category-slider/class.php:173
+#: elementor/listing-slider/class.php:265
+msgid "2 Seconds"
+msgstr "2 secondi"
+
+#: elementor/listing-category-box/class.php:24
+#: elementor/listing-store-grid/class.php:23
+#: elementor/listing-category-slider/class.php:24
+#: elementor/listing-slider/class.php:24 elementor/listing-grid/class.php:24
+msgid "3 Col"
+msgstr "3 colonne"
+
+#: elementor/listing-category-slider/class.php:172
+#: elementor/listing-slider/class.php:264
+msgid "3 Seconds"
+msgstr "3 secondi"
+
+#: elementor/listing-category-box/class.php:25
+#: elementor/listing-store-grid/class.php:24
+#: elementor/listing-category-slider/class.php:25
+#: elementor/listing-slider/class.php:25 elementor/listing-grid/class.php:25
+msgid "4 Col"
+msgstr "4 colonne"
+
+#: elementor/listing-category-slider/class.php:171
+#: elementor/listing-slider/class.php:263
+msgid "4 Seconds"
+msgstr "4 secondi"
+
+#: elementor/listing-category-slider/class.php:26
+#: elementor/listing-slider/class.php:26
+msgid "5 Col"
+msgstr "5 colonne"
+
+#: elementor/listing-category-slider/class.php:170
+#: elementor/listing-slider/class.php:262
+msgid "5 Seconds"
+msgstr "5 secondi"
+
+#: elementor/listing-category-box/class.php:26
+#: elementor/listing-store-grid/class.php:25
+#: elementor/listing-category-slider/class.php:27
+#: elementor/listing-slider/class.php:27 elementor/listing-grid/class.php:26
+msgid "6 Col"
+msgstr "6 colonne"
+
+#: elementor/listing-category-slider/class.php:28
+msgid "7 Col"
+msgstr "7 colonne"
+
+#: elementor/listing-category-slider/class.php:29
+msgid "8 Col"
+msgstr "8 colonne"
+
+#: elementor/accordian/class.php:17
+msgid "Accordian"
+msgstr "Fisarmonica"
+
+#: elementor/accordian/class.php:32
+msgid "Add as many items as you want"
+msgstr "Aggiungi tutti gli elementi che vuoi"
+
+#: elementor/listing-list/class.php:42 elementor/listing-slider/class.php:52
+#: elementor/listing-grid/class.php:51
+msgid "All"
+msgstr "Tutti"
+
+#: elementor/listing-list/class.php:25 elementor/listing-slider/class.php:35
+#: elementor/listing-grid/class.php:34
+msgid "All Categories"
+msgstr "Tutte le categorie"
+
+#: elementor/listing-list/class.php:70
+msgid "Author Name Display"
+msgstr "Mostra nome autore"
+
+#: elementor/listing-category-slider/class.php:149
+#: elementor/listing-slider/class.php:241
+msgid "Autoplay"
+msgstr "Riproduzione automatica"
+
+#: elementor/listing-category-slider/class.php:168
+#: elementor/listing-slider/class.php:260
+msgid "Autoplay Interval"
+msgstr "Intervallo riproduzione automatica"
+
+#: elementor/listing-category-slider/class.php:183
+#: elementor/listing-slider/class.php:275
+msgid "Autoplay Slide Speed"
+msgstr "Velocità diapositiva riproduzione automatica"
+
+#: elementor/pricing-table/class.php:200 elementor/pricing-table/class.php:453
+#: elementor/pricing-table/class.php:517 elementor/listing-slider/class.php:303
+msgid "Background"
+msgstr "Sfondo"
+
+#: elementor/pricing-table/class.php:479 elementor/pricing-table/class.php:525
+msgid "Border"
+msgstr "Bordo"
+
+#: elementor/pricing-table/class.php:227
+msgid "Border Radius"
+msgstr "Raggio del bordo"
+
+#: inc/post-meta.php:84
+msgid "Breadcrumb"
+msgstr "Breadcrumb"
+
+#: elementor/cta-2/class.php:57
+msgid "Button 1"
+msgstr "Pulsante 1"
+
+#: elementor/cta-2/class.php:86
+msgid "Button 2"
+msgstr "Pulsante 2"
+
+#: elementor/pricing-table/class.php:417
+msgid "Button Style"
+msgstr "Stile del pulsante"
+
+#: elementor/cta-1/class.php:54 elementor/text-button/class.php:44
+#: elementor/cta-2/class.php:62 elementor/cta-2/class.php:91
+msgid "Button Text"
+msgstr "Testo del pulsante"
+
+#: elementor/cta-1/class.php:60 elementor/text-button/class.php:50
+#: elementor/cta-2/class.php:77 elementor/cta-2/class.php:106
+msgid "Button URL"
+msgstr "URL del pulsante"
+
+#: elementor/cta-1/class.php:17
+msgid "Call to Action 1"
+msgstr "Call to Action 1"
+
+#: elementor/cta-2/class.php:17
+msgid "Call to Action 2"
+msgstr "Call to Action 2"
+
+#: elementor/listing-category-box/class.php:49
+#: elementor/listing-category-slider/class.php:52
+#: elementor/listing-list/class.php:54 elementor/listing-slider/class.php:64
+#: elementor/listing-grid/class.php:63
+msgid "Categories"
+msgstr "Categorie"
+
+#: elementor/listing-list/class.php:78 elementor/listing-slider/class.php:80
+#: elementor/listing-grid/class.php:79
+msgid "Category Name Display"
+msgstr "Mostra nome categoria"
+
+#: elementor/title/class.php:92
+msgid "Center"
+msgstr "Centro"
+
+#: elementor/listing-list/class.php:118 elementor/listing-slider/class.php:136
+#: elementor/listing-grid/class.php:135
+msgid "Change items on every page load"
+msgstr "Cambia elementi a ogni caricamento pagina"
+
+#. Name of the plugin
+msgid "ClassiList Core"
+msgstr "ClassiList Core"
+
+#. Description of the plugin
+msgid "ClassiList Core Plugin for ClassiList Theme"
+msgstr "Plugin ClassiList Core per il tema ClassiList"
+
+#: elementor/pricing-table/class.php:246 elementor/pricing-table/class.php:273
+#: elementor/pricing-table/class.php:300 elementor/pricing-table/class.php:327
+#: elementor/pricing-table/class.php:372 elementor/pricing-table/class.php:435
+#: elementor/pricing-table/class.php:507
+#: elementor/listing-category-slider/class.php:205
+#: elementor/listing-slider/class.php:298
+msgid "Color"
+msgstr "Colore"
+
+#: elementor/cta-1/class.php:48 elementor/text-button/class.php:38
+#: elementor/accordian/class.php:43
+msgid "Content"
+msgstr "Contenuto"
+
+#: elementor/listing-store-grid/class.php:121
+#: elementor/listing-store-grid/class.php:144
+#: elementor/listing-category-slider/class.php:216
+#: elementor/listing-category-slider/class.php:239
+msgid "Counter"
+msgstr "Contatore"
+
+#: elementor/listing-list/class.php:47 elementor/listing-slider/class.php:57
+#: elementor/listing-grid/class.php:56
+msgid "Custom"
+msgstr "Personalizzato"
+
+#: elementor/info-box/class.php:35
+msgid "Custom Image"
+msgstr "Immagine personalizzata"
+
+#: inc/post-meta.php:48
+msgid "Custom Sidebar"
+msgstr "Barra laterale personalizzata"
+
+#: elementor/cta-1/class.php:35 elementor/cta-2/class.php:35
+msgid "Dark Background"
+msgstr "Sfondo scuro"
+
+#: elementor/listing-slider/class.php:155
+msgid "Date (Recents comes first"
+msgstr "Data (i più recenti per primi"
+
+#: elementor/listing-store-grid/class.php:50
+#: elementor/listing-list/class.php:137 elementor/listing-grid/class.php:154
+msgid "Date (Recents comes first)"
+msgstr "Data (i più recenti per primi)"
+
+#: inc/post-meta.php:27 inc/post-meta.php:28 inc/post-meta.php:40
+#: inc/post-meta.php:57 inc/post-meta.php:67 inc/post-meta.php:77
+#: inc/post-meta.php:87
+msgid "Default"
+msgstr "Predefinito"
+
+#: elementor/listing-category-slider/class.php:96
+#: elementor/listing-slider/class.php:187
+msgid "Desktops: > 1199px"
+msgstr "Desktop: > 1199px"
+
+#: elementor/listing-category-slider/class.php:103
+#: elementor/listing-slider/class.php:194
+msgid "Desktops: > 991px"
+msgstr "Desktop: > 991px"
+
+#: elementor/listing-category-box/class.php:93
+#: elementor/listing-store-grid/class.php:69
+#: elementor/listing-grid/class.php:186
+msgid "Desktops: >1199px"
+msgstr "Desktop: >1199px"
+
+#: elementor/listing-category-box/class.php:100
+#: elementor/listing-store-grid/class.php:76
+#: elementor/listing-grid/class.php:193
+msgid "Desktops: >991px"
+msgstr "Desktop: >991px"
+
+#: inc/post-meta.php:59 inc/post-meta.php:89
+msgid "Disable"
+msgstr "Disattiva"
+
+#: inc/post-meta.php:79
+msgid "Disabled"
+msgstr "Disattivato"
+
+#: inc/post-meta.php:58 inc/post-meta.php:88
+msgid "Enable"
+msgstr "Attiva"
+
+#: elementor/listing-category-slider/class.php:153
+#: elementor/listing-slider/class.php:245
+msgid "Enable or disable autoplay. Default: On"
+msgstr "Attiva o disattiva la riproduzione automatica. Predefinito: Attivo"
+
+#: elementor/listing-category-slider/class.php:144
+#: elementor/listing-slider/class.php:236
+msgid "Enable or disable navigation. Default: On"
+msgstr "Attiva o disattiva la navigazione. Predefinito: Attivo"
+
+#: inc/post-meta.php:78
+msgid "Enabled"
+msgstr "Attivato"
+
+#: elementor/pricing-table/class.php:122
+msgid "Feature List"
+msgstr "Elenco funzionalità"
+
+#: elementor/listing-list/class.php:43 elementor/listing-slider/class.php:53
+#: elementor/listing-grid/class.php:52
+msgid "Featured"
+msgstr "In evidenza"
+
+#: elementor/pricing-table/class.php:192
+msgid "Full Box"
+msgstr "Box completo"
+
+#: inc/post-meta.php:41
+msgid "Full Width"
+msgstr "Larghezza intera"
+
+#: elementor/cta-1/class.php:27 elementor/text-button/class.php:27
+#: elementor/accordian/class.php:27 elementor/listing-category-box/class.php:44
+#: elementor/title/class.php:28 elementor/listing-store-grid/class.php:36
+#: elementor/pricing-table/class.php:45
+#: elementor/listing-category-slider/class.php:47
+#: elementor/listing-list/class.php:35 elementor/cta-2/class.php:27
+#: elementor/info-box/class.php:27 elementor/listing-slider/class.php:45
+#: elementor/google-map/class.php:27 elementor/listing-grid/class.php:44
+msgid "General"
+msgstr "Generale"
+
+#: elementor/google-map/class.php:17
+msgid "Google Map"
+msgstr "Google Map"
+
+#: elementor/google-map/class.php:32
+msgid "Google Map Code"
+msgstr "Codice Google Map"
+
+#: inc/post-meta.php:64
+msgid "Header Layout"
+msgstr "Layout intestazione"
+
+#: inc/post-meta.php:74
+msgid "Header Search"
+msgstr "Ricerca intestazione"
+
+#: elementor/google-map/class.php:40
+msgid "Height"
+msgstr "Altezza"
+
+#: elementor/listing-category-box/class.php:61
+#: elementor/listing-category-slider/class.php:64
+msgid "Hide Categories that has no listings. Default: On"
+msgstr "Nascondi categorie senza annunci. Predefinito: Attivo"
+
+#: elementor/listing-category-box/class.php:57
+#: elementor/listing-category-slider/class.php:60
+msgid "Hide Empty"
+msgstr "Nascondi vuoti"
+
+#: elementor/pricing-table/class.php:500
+msgid "Hover"
+msgstr "Al passaggio del mouse"
+
+#. URI of the plugin
+#. Author URI of the plugin
+msgid "https://www.radiustheme.com"
+msgstr "https://www.radiustheme.com"
+
+#: elementor/listing-category-box/class.php:66
+#: elementor/pricing-table/class.php:129
+#: elementor/listing-category-slider/class.php:69 elementor/cta-2/class.php:68
+#: elementor/cta-2/class.php:97 elementor/info-box/class.php:34
+#: elementor/info-box/class.php:42
+msgid "Icon"
+msgstr "Icona"
+
+#: elementor/pricing-table/class.php:381
+msgid "Icon Size"
+msgstr "Dimensione icona"
+
+#: elementor/info-box/class.php:32
+msgid "Icon Type"
+msgstr "Tipo di icona"
+
+#: elementor/info-box/class.php:49
+msgid "Image"
+msgstr "Immagine"
+
+#: elementor/info-box/class.php:17
+msgid "Info Box"
+msgstr "Box informazioni"
+
+#: elementor/listing-list/class.php:40 elementor/listing-slider/class.php:50
+#: elementor/listing-grid/class.php:49
+msgid "Items to Show"
+msgstr "Elementi da mostrare"
+
+#: elementor/title/class.php:100
+msgid "Justified"
+msgstr "Giustificato"
+
+#: inc/post-meta.php:37
+msgid "Layout"
+msgstr "Layout"
+
+#: inc/post-meta.php:68
+msgid "Layout 1"
+msgstr "Layout 1"
+
+#: inc/post-meta.php:69
+msgid "Layout 2"
+msgstr "Layout 2"
+
+#: inc/post-meta.php:30
+msgid "Layout Settings"
+msgstr "Impostazioni layout"
+
+#: inc/post-meta.php:33
+msgid "Layouts"
+msgstr "Layout"
+
+#: elementor/title/class.php:88
+msgid "Left"
+msgstr "Sinistra"
+
+#: inc/post-meta.php:42
+msgid "Left Sidebar"
+msgstr "Barra laterale sinistra"
+
+#: elementor/cta-1/class.php:34 elementor/cta-2/class.php:34
+msgid "Light Background"
+msgstr "Sfondo chiaro"
+
+#: elementor/pricing-table/class.php:97
+msgid "Link"
+msgstr "Link"
+
+#: elementor/info-box/class.php:62
+msgid "Link (Optional)"
+msgstr "Link (opzionale)"
+
+#: elementor/pricing-table/class.php:140
+msgid "List"
+msgstr "Elenco"
+
+#: elementor/pricing-table/class.php:354
+msgid "List Color"
+msgstr "Colore elenco"
+
+#: elementor/pricing-table/class.php:364
+msgid "List Typography"
+msgstr "Tipografia elenco"
+
+#: elementor/listing-category-box/class.php:18
+msgid "Listing Category Box"
+msgstr "Box categoria annunci"
+
+#: elementor/listing-category-slider/class.php:18
+msgid "Listing Category Slider"
+msgstr "Slider categoria annunci"
+
+#: elementor/listing-category-box/class.php:75
+#: elementor/listing-category-slider/class.php:78
+msgid "Listing Counts"
+msgstr "Conteggio annunci"
+
+#: elementor/listing-grid/class.php:18
+msgid "Listing Grid"
+msgstr "Griglia annunci"
+
+#: elementor/listing-list/class.php:110 elementor/listing-slider/class.php:128
+#: elementor/listing-grid/class.php:127
+msgid "Listing ID's, seperated by commas"
+msgstr "ID annunci, separati da virgole"
+
+#: elementor/listing-list/class.php:18
+msgid "Listing List"
+msgstr "Elenco annunci"
+
+#: elementor/listing-search/class.php:18
+msgid "Listing Search"
+msgstr "Ricerca annunci"
+
+#: elementor/listing-slider/class.php:18
+msgid "Listing Slider"
+msgstr "Slider annunci"
+
+#: elementor/listing-store-grid/class.php:17
+msgid "Listing Store Grid"
+msgstr "Griglia negozio annunci"
+
+#: elementor/listing-category-slider/class.php:191
+#: elementor/listing-slider/class.php:283
+msgid "Loop"
+msgstr "Ciclo"
+
+#: elementor/listing-category-slider/class.php:195
+#: elementor/listing-slider/class.php:287
+msgid "Loop to first item. Default: On"
+msgstr "Torna al primo elemento. Predefinito: Attivo"
+
+#: elementor/listing-slider/class.php:315
+#: elementor/listing-slider/class.php:344
+msgid "Meta"
+msgstr "Meta"
+
+#: elementor/listing-category-slider/class.php:140
+#: elementor/listing-slider/class.php:232
+msgid "Navigation"
+msgstr "Navigazione"
+
+#: elementor/listing-list/class.php:44 elementor/listing-slider/class.php:54
+#: elementor/listing-grid/class.php:53
+msgid "New"
+msgstr "Nuovo"
+
+#: elementor/pricing-table/class.php:427
+msgid "Normal"
+msgstr "Normale"
+
+#. %s is the Ads counts.
+#: elementor/listing-store-grid/view.php:20
+#, php-format
+msgctxt "Number of Ads"
+msgid "%s ad"
+msgid_plural "%s ads"
+msgstr[0] "%s annuncio"
+msgstr[1] "%s annunci"
+
+#: elementor/listing-store-grid/class.php:41
+#: elementor/listing-list/class.php:94 elementor/listing-grid/class.php:111
+msgid "Number of Items"
+msgstr "Numero di elementi"
+
+#: elementor/listing-category-box/class.php:88
+#: elementor/listing-store-grid/class.php:64
+#: elementor/listing-category-slider/class.php:91
+#: elementor/listing-slider/class.php:182 elementor/listing-grid/class.php:181
+msgid "Number of Responsive Columns"
+msgstr "Numero di colonne responsive"
+
+#: elementor/listing-category-box/class.php:59
+#: elementor/listing-category-box/class.php:68
+#: elementor/listing-category-box/class.php:77
+#: elementor/listing-category-slider/class.php:62
+#: elementor/listing-category-slider/class.php:71
+#: elementor/listing-category-slider/class.php:80
+#: elementor/listing-category-slider/class.php:142
+#: elementor/listing-category-slider/class.php:151
+#: elementor/listing-category-slider/class.php:160
+#: elementor/listing-category-slider/class.php:193
+#: elementor/listing-list/class.php:72 elementor/listing-list/class.php:80
+#: elementor/listing-list/class.php:88 elementor/listing-list/class.php:120
+#: elementor/listing-slider/class.php:82 elementor/listing-slider/class.php:90
+#: elementor/listing-slider/class.php:98 elementor/listing-slider/class.php:106
+#: elementor/listing-slider/class.php:138
+#: elementor/listing-slider/class.php:234
+#: elementor/listing-slider/class.php:243
+#: elementor/listing-slider/class.php:252
+#: elementor/listing-slider/class.php:285 elementor/listing-grid/class.php:81
+#: elementor/listing-grid/class.php:89 elementor/listing-grid/class.php:97
+#: elementor/listing-grid/class.php:105 elementor/listing-grid/class.php:137
+msgid "Off"
+msgstr "Spento"
+
+#: elementor/listing-category-box/class.php:58
+#: elementor/listing-category-box/class.php:67
+#: elementor/listing-category-box/class.php:76
+#: elementor/listing-category-slider/class.php:61
+#: elementor/listing-category-slider/class.php:70
+#: elementor/listing-category-slider/class.php:79
+#: elementor/listing-category-slider/class.php:141
+#: elementor/listing-category-slider/class.php:150
+#: elementor/listing-category-slider/class.php:159
+#: elementor/listing-category-slider/class.php:192
+#: elementor/listing-list/class.php:71 elementor/listing-list/class.php:79
+#: elementor/listing-list/class.php:87 elementor/listing-list/class.php:119
+#: elementor/listing-slider/class.php:81 elementor/listing-slider/class.php:89
+#: elementor/listing-slider/class.php:97 elementor/listing-slider/class.php:105
+#: elementor/listing-slider/class.php:137
+#: elementor/listing-slider/class.php:233
+#: elementor/listing-slider/class.php:242
+#: elementor/listing-slider/class.php:251
+#: elementor/listing-slider/class.php:284 elementor/listing-grid/class.php:80
+#: elementor/listing-grid/class.php:88 elementor/listing-grid/class.php:96
+#: elementor/listing-grid/class.php:104 elementor/listing-grid/class.php:136
+msgid "On"
+msgstr "Acceso"
+
+#: elementor/listing-store-grid/class.php:48
+#: elementor/listing-list/class.php:135 elementor/listing-slider/class.php:153
+#: elementor/listing-grid/class.php:152
+msgid "Order By"
+msgstr "Ordina per"
+
+#: elementor/pricing-table/class.php:216 elementor/pricing-table/class.php:469
+msgid "Padding"
+msgstr "Padding"
+
+#: elementor/listing-category-slider/class.php:117
+#: elementor/listing-slider/class.php:208
+msgid "Phones: < 768px"
+msgstr "Telefoni: < 768px"
+
+#: elementor/listing-category-box/class.php:114
+#: elementor/listing-store-grid/class.php:90
+#: elementor/listing-grid/class.php:207
+msgid "Phones: >575px"
+msgstr "Telefoni: >575px"
+
+#: elementor/pricing-table/class.php:88
+msgid "Plan Button Text"
+msgstr "Testo pulsante piano"
+
+#: elementor/pricing-table/class.php:80 elementor/pricing-table/class.php:319
+msgid "Plan Description"
+msgstr "Descrizione piano"
+
+#: elementor/pricing-table/class.php:71 elementor/pricing-table/class.php:292
+msgid "Plan Duration"
+msgstr "Durata piano"
+
+#: elementor/pricing-table/class.php:346
+msgid "Plan Features"
+msgstr "Funzionalità piano"
+
+#: elementor/pricing-table/class.php:62
+msgid "Plan Price"
+msgstr "Prezzo piano"
+
+#: elementor/pricing-table/class.php:265
+msgid "Plan Pricing Style"
+msgstr "Stile prezzi piano"
+
+#: elementor/pricing-table/class.php:53
+msgid "Plan Type"
+msgstr "Tipo di piano"
+
+#: elementor/pricing-table/class.php:238
+msgid "Plan Type Style"
+msgstr "Stile tipo di piano"
+
+#: elementor/listing-list/class.php:45 elementor/listing-slider/class.php:55
+#: elementor/listing-grid/class.php:54
+msgid "Popular"
+msgstr "Popolare"
+
+#: elementor/listing-slider/class.php:321
+#: elementor/listing-slider/class.php:351
+msgid "Price"
+msgstr "Prezzo"
+
+#: elementor/pricing-table/class.php:149
+msgid "Price Features"
+msgstr "Funzionalità prezzo"
+
+#: elementor/pricing-table/class.php:22
+msgid "Pricing Table"
+msgstr "Tabella prezzi"
+
+#: elementor/listing-list/class.php:113 elementor/listing-slider/class.php:131
+#: elementor/listing-grid/class.php:130
+msgid "Put the comma seperated ID's here eg. 23,26,89"
+msgstr "Inserisci qui gli ID separati da virgole, es. 23,26,89"
+
+#: elementor/pricing-table/class.php:488
+msgid "Radius"
+msgstr "Raggio"
+
+#. Author of the plugin
+msgid "RadiusTheme"
+msgstr "RadiusTheme"
+
+#: elementor/init.php:89
+msgid "RadiusTheme Elements"
+msgstr "Elementi RadiusTheme"
+
+#: elementor/info-box/class.php:51
+msgid "Recommended image size is 160x160 px"
+msgstr "La dimensione immagine consigliata è 160x160 px"
+
+#: elementor/title/class.php:96
+msgid "Right"
+msgstr "Destra"
+
+#: inc/post-meta.php:43
+msgid "Right Sidebar"
+msgstr "Barra laterale destra"
+
+#: elementor/title/class.php:18
+msgid "Section Title"
+msgstr "Titolo sezione"
+
+#: elementor/listing-category-slider/class.php:177
+#: elementor/listing-slider/class.php:269
+msgid ""
+"Set any value for example 5 seconds to play it in every 5 seconds. Default: 5 Seconds"
+msgstr "Imposta qualsiasi valore, ad esempio 5 secondi, per riprodurlo ogni 5 secondi. Predefinito: 5 secondi"
+
+#: elementor/pricing-table/class.php:112
+msgid "Shape image"
+msgstr "Immagine forma"
+
+#: elementor/listing-list/class.php:86 elementor/listing-slider/class.php:88
+#: elementor/listing-grid/class.php:87
+msgid "Show Custom Fields"
+msgstr "Mostra campi personalizzati"
+
+#: elementor/listing-category-box/class.php:70
+#: elementor/listing-category-slider/class.php:73
+msgid "Show or Hide Category Icons/Images. Default: On"
+msgstr "Mostra o nascondi icone/immagini categoria. Predefinito: Attivo"
+
+#: elementor/listing-category-box/class.php:79
+#: elementor/listing-category-slider/class.php:82
+msgid "Show or Hide Listing Counts. Default: On"
+msgstr "Mostra o nascondi conteggio annunci. Predefinito: Attivo"
+
+#: elementor/listing-slider/class.php:104 elementor/listing-grid/class.php:103
+msgid "Show Type"
+msgstr "Mostra tipo"
+
+#: elementor/listing-slider/class.php:96 elementor/listing-grid/class.php:95
+msgid "Show Views"
+msgstr "Mostra visualizzazioni"
+
+#: elementor/listing-category-slider/class.php:185
+#: elementor/listing-slider/class.php:277
+msgid "Slide speed in milliseconds. Default: 200"
+msgstr "Velocità diapositiva in millisecondi. Predefinito: 200"
+
+#: elementor/listing-category-slider/class.php:135
+#: elementor/listing-slider/class.php:227
+msgid "Slider Options"
+msgstr "Opzioni slider"
+
+#: elementor/listing-category-slider/class.php:124
+#: elementor/listing-slider/class.php:215
+msgid "Small Phones: < 480px"
+msgstr "Telefoni piccoli: < 480px"
+
+#: elementor/listing-category-box/class.php:121
+#: elementor/listing-store-grid/class.php:97
+#: elementor/listing-grid/class.php:214
+msgid "Small Phones: <576px"
+msgstr "Telefoni piccoli: <576px"
+
+#: elementor/listing-category-box/class.php:52
+#: elementor/listing-category-slider/class.php:55
+msgid ""
+"Start typing category names. If empty then all parent categories will be displayed"
+msgstr "Inizia a digitare i nomi delle categorie. Se vuoto verranno mostrate tutte le categorie principali"
+
+#: elementor/listing-category-slider/class.php:162
+#: elementor/listing-slider/class.php:254
+msgid "Stop autoplay on mouse hover. Default: On"
+msgstr "Interrompi la riproduzione automatica al passaggio del mouse. Predefinito: Attivo"
+
+#: elementor/listing-category-slider/class.php:158
+#: elementor/listing-slider/class.php:250
+msgid "Stop on Hover"
+msgstr "Ferma al passaggio del mouse"
+
+#: elementor/listing-store-grid/class.php:110
+#: elementor/pricing-table/class.php:183 elementor/pricing-table/class.php:408
+msgid "Style"
+msgstr "Stile"
+
+#: elementor/title/class.php:70
+msgid "Sub Title Color"
+msgstr "Colore sottotitolo"
+
+#: elementor/title/class.php:64
+msgid "Sub Title Style"
+msgstr "Stile sottotitolo"
+
+#: elementor/title/class.php:39 elementor/cta-2/class.php:48
+msgid "Subtitle"
+msgstr "Sottotitolo"
+
+#: elementor/listing-category-slider/class.php:110
+#: elementor/listing-slider/class.php:201
+msgid "Tablets: > 767px"
+msgstr "Tablet: > 767px"
+
+#: elementor/listing-category-box/class.php:107
+#: elementor/listing-store-grid/class.php:83
+#: elementor/listing-grid/class.php:200
+msgid "Tablets: >767px"
+msgstr "Tablet: >767px"
+
+#: elementor/text-button/class.php:17
+msgid "Text With Button"
+msgstr "Testo con pulsante"
+
+#: elementor/cta-1/class.php:32 elementor/cta-2/class.php:32
+msgid "Theme"
+msgstr "Tema"
+
+#: elementor/cta-1/class.php:42 elementor/text-button/class.php:32
+#: elementor/accordian/class.php:37 elementor/title/class.php:33
+#: elementor/listing-store-grid/class.php:51
+#: elementor/listing-store-grid/class.php:115
+#: elementor/listing-store-grid/class.php:137
+#: elementor/listing-category-slider/class.php:210
+#: elementor/listing-category-slider/class.php:232
+#: elementor/listing-list/class.php:138 elementor/cta-2/class.php:42
+#: elementor/info-box/class.php:56 elementor/listing-slider/class.php:156
+#: elementor/listing-slider/class.php:309
+#: elementor/listing-slider/class.php:337 elementor/listing-grid/class.php:155
+msgid "Title"
+msgstr "Titolo"
+
+#: elementor/title/class.php:85
+msgid "Title Alignment"
+msgstr "Allineamento titolo"
+
+#: elementor/title/class.php:51
+msgid "Title Color"
+msgstr "Colore titolo"
+
+#: elementor/title/class.php:45
+msgid "Title Style"
+msgstr "Stile titolo"
+
+#. %s is the link to the Google Maps website.
+#: elementor/google-map/class.php:35
+#, php-format
+msgid ""
+"To create your own google map, follow the steps below:<br/>Step 1: Visit %s<br/>Step 2: Search for a location using the search bar of the top-left corner<br/>Step 3: After you find the location, click on the \\\"Share\\\" icon from the left panel<br/>Step 4: A popup will come up. From there go to the \\\"Embed map\\\" tab. You will find your Google Map code. Copy and paste this code in here"
+msgstr ""
+
+#: elementor/listing-list/class.php:46 elementor/listing-slider/class.php:56
+#: elementor/listing-grid/class.php:55
+msgid "Top"
+msgstr "In alto"
+
+#: inc/post-meta.php:54
+msgid "Top Bar"
+msgstr "Barra superiore"
+
+#: elementor/listing-slider/class.php:112
+msgid "Total Number of Items"
+msgstr "Numero totale di elementi"
+
+#: elementor/title/class.php:58 elementor/title/class.php:77
+#: elementor/listing-store-grid/class.php:131
+#: elementor/pricing-table/class.php:256 elementor/pricing-table/class.php:283
+#: elementor/pricing-table/class.php:310 elementor/pricing-table/class.php:337
+#: elementor/pricing-table/class.php:445
+#: elementor/listing-category-slider/class.php:226
+#: elementor/listing-slider/class.php:331
+msgid "Typography"
+msgstr "Tipografia"
+
+#: elementor/listing-store-grid/class.php:43
+#: elementor/listing-list/class.php:96 elementor/listing-slider/class.php:114
+#: elementor/listing-grid/class.php:113
+msgid "Write -1 to show all"
+msgstr "Scrivi -1 per mostrare tutto"
