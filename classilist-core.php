@@ -3,7 +3,7 @@
 Plugin Name: ClassiList Core
 Plugin URI: https://www.radiustheme.com
 Description: ClassiList Core Plugin for ClassiList Theme
-Version: 2.0.1
+Version: 2.0.2
 Author: RadiusTheme
 Author URI: https://www.radiustheme.com
 Text Domain: classilist-core
@@ -17,8 +17,7 @@ if ( ! defined( 'ABSPATH' ) ) {
 }
 
 if ( ! defined( 'CLASSILIST_CORE' ) ) {
-	$classilist_core_plugin_data = get_file_data( __FILE__, [ 'version' => 'Version' ] );
-	define( 'CLASSILIST_CORE', $classilist_core_plugin_data['version'] );
+	define( 'CLASSILIST_CORE', '2.0.2' );
 	define( 'CLASSILIST_CORE_THEME_PREFIX', 'classilist' );
 	define( 'CLASSILIST_CORE_BASE_URL', plugin_dir_url( __FILE__ ) );
 	define( 'CLASSILIST_CORE_BASE_DIR', plugin_dir_path( __FILE__ ) );
